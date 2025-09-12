@@ -418,13 +418,21 @@ translations:
 
   - key: features.accessibility_screenreaders
     t: Screen Readers
+    aliases:
+      - accessibility.accessibility_screenreaders
   - key: features.accessibility_screenreaders.question
     t: Which screen readers do you use for accessibility testing?
+    aliases:
+      - accessibility.accessibility_screenreaders.question
 
   - key: features.accessibility_techniques
     t: Other Accessibility Techniques
+    aliases:
+      - accessibility.accessibility_techniques
   - key: features.accessibility_techniques.question
     t: What other techniques are part of your regular accessibility strategy?
+    aliases:
+      - accessibility.accessibility_techniques.question
 
   - key: options.accessibility_techniques.tabindex
     t: |
