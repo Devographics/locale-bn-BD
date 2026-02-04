@@ -266,13 +266,21 @@ translations:
 
   - key: tools.component_libraries_others
     t: Other Libraries
+    aliases:
+      - component_libraries.component_libraries_others
   - key: tools.component_libraries_others.question
     t: What other component libraries have you used?
+    aliases:
+      - component_libraries.component_libraries_others.question
 
   - key: tools.component_libraries_pain_points
     t: Component Pain Points
+    aliases:
+      - component_libraries.component_libraries_pain_points
   - key: tools.component_libraries_pain_points.question
     t: What pain points have you encountered related to working with components?
+    aliases:
+      - component_libraries.component_libraries_pain_points.question
 
   # - key: tools.ui_libraries_happiness
   #   t: Happiness
